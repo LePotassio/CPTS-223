@@ -1,0 +1,61 @@
+Ayyy, player ID taken
+Ayyy, player space already occupied
+Removing player: 7
+ID: 1 (X,Y): 3,2
+ID: 2 (X,Y): 4,3
+ID: 3 (X,Y): 4,6
+ID: 4 (X,Y): 9,3
+ID: 5 (X,Y): 6,3
+ID: 6 (X,Y): 8,2
+ID: 8 (X,Y): 9,8
+
+Removing player: 8
+ID: 1 (X,Y): 3,2
+ID: 2 (X,Y): 4,3
+ID: 3 (X,Y): 4,6
+ID: 4 (X,Y): 9,8
+ID: 5 (X,Y): 6,3
+ID: 6 (X,Y): 8,2
+
+Ayyy, invalid player movement
+ID: 1 (X,Y): 3,2
+ID: 2 (X,Y): 4,3
+ID: 3 (X,Y): 4,6
+ID: 4 (X,Y): 9,8
+ID: 5 (X,Y): 6,3
+ID: 6 (X,Y): 8,2
+
+ID: 1 (X,Y): 3,2
+ID: 2 (X,Y): 3,3
+ID: 3 (X,Y): 4,6
+ID: 4 (X,Y): 9,8
+ID: 5 (X,Y): 6,3
+ID: 6 (X,Y): 8,2
+
+Removing player: 1
+ID: 2 (X,Y): 3,3
+ID: 3 (X,Y): 4,6
+ID: 4 (X,Y): 3,2
+ID: 5 (X,Y): 6,3
+ID: 6 (X,Y): 8,2
+
+Removing player: 6
+ID: 2 (X,Y): 3,3
+ID: 3 (X,Y): 4,6
+ID: 4 (X,Y): 8,2
+ID: 5 (X,Y): 6,3
+
+Removing player: 2
+ID: 3 (X,Y): 4,6
+ID: 4 (X,Y): 8,2
+ID: 5 (X,Y): 3,3
+
+Removing player: 3
+ID: 4 (X,Y): 4,6
+ID: 5 (X,Y): 3,3
+
+ID: 4 (X,Y): 4,6
+ID: 5 (X,Y): 4,3
+
+Removing player: 5
+ID: 4 (X,Y): 4,3
